@@ -1,0 +1,8 @@
+:root {
+  --primary-color: #6246ea;
+  --accent-bg-color: #fffffe;
+  --paragraph: #2b2c34;
+  --page-horizontal-padding: 20px;
+  --header-height: 60px;
+  --max-content-width: 100vw;
+}

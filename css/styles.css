@@ -1,0 +1,5 @@
+@import 'settings/_reset.css';
+@import 'settings/_typography.css';
+@import 'settings/_variables.css';
+@import 'components/_header.css';
+@import 'components/_mainpage.css';

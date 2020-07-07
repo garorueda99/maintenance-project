@@ -1,0 +1,16 @@
+.header {
+  height: var(--header-height);
+  background: var(--primary-color);
+  padding: 0 var(--page-horizontal-padding);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header h1 {
+  color: #fff;
+}
+
+.appLogo {
+  height: 50px;
+}
